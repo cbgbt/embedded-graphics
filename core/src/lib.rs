@@ -67,7 +67,7 @@
 //! [`BinaryColor`]: pixelcolor::BinaryColor
 //! [`Rgb888`]: pixelcolor::Rgb888
 //! [`ImageDrawable`]: image::ImageDrawable
-
+#![allow(warnings)]
 #![doc(
     html_logo_url = "https://raw.githubusercontent.com/embedded-graphics/embedded-graphics/b225511f390c0ed9bc065eb67d05125845312148/assets/logo_core.svg?sanitize=true"
 )]

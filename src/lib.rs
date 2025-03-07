@@ -278,7 +278,7 @@
 //! [simulator]: https://github.com/embedded-graphics/simulator
 //! [simulator examples]: https://github.com/embedded-graphics/simulator/tree/master/examples
 //! [`defmt`]: https://defmt.ferrous-systems.com/
-#![allow(all_warnings)]
+#![allow(warnings)]
 #![doc(
     html_logo_url = "https://raw.githubusercontent.com/embedded-graphics/embedded-graphics/191fe7f8a0fedc713f9722b9dc59208dacadee7e/assets/logo.svg?sanitize=true"
 )]
